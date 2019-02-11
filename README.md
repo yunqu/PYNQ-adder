@@ -1,6 +1,7 @@
 # PYNQ-adder
 This repository provides very basic examples to interact with IP based on 
-AXI interfaces.
+AXI interfaces. It serves as an alternative example if users do not want
+to use HLS.
 
 ## Getting Started
 On the latest Pynq-Z1 image (>2.4), you can copy the `notebooks/adders` folder 
